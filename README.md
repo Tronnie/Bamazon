@@ -16,6 +16,8 @@ MySQL and Node come together to create an online store prompting the user to sel
       * inquirer
       * mysql
   * Create inquirer prompt.  Test CLI.
+    ![browse option](/images/CLI_browse.jpg)
+    ![quit option](/images/CLI_quit.png)
   * CRUD.
 
 
