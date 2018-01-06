@@ -3,6 +3,8 @@
 ## Overview
 MySQL and Node come together to create an online store prompting the user to select from the items available and updating stock quantities.
 
+This is a command line interface application.  So, you will need to run through your terminal.
+
 
 ## Methodology
   * Create Git Repository & clone to local computer.
